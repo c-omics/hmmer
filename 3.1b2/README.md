@@ -1,14 +1,14 @@
-# hmmer-3.1b2
+# hmmer
 
-hmmer-3.1b2 license: GPLv3
+hmmer license: GPLv3
 
 ## Useful links:
  
  * [package web-site](https://github.com/timflutre/eqtlbma)
- * [container github-site](https://github.com/sglim2/docker-bio)
- * [Docker Hub](https://hub.docker.com/u/sglim2/)
+ * [container github-site](https://github.com/c-omics/hmmer)
+ * [Docker Hub](https://hub.docker.com/u/comics/)
 
 ## Example Usage
-See the [container github-site](https://github.com/sglim2/docker-bio) for further usage documentation.
+See the [container github-site](https://github.com/c-omics/) for further usage documentation.
 
 
